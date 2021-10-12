@@ -14,7 +14,7 @@ exports.regester = async (req, res) => {
     }
 
 }
-
+ 
 exports.login = async (req, res) => {
     try {
         const { userName, password } = req.body

@@ -69,6 +69,13 @@
       "age": "22",
       "img": "toan10.jpg",
       "id": 10
+    },
+    {
+      "name": "Toan 1",
+      "author": "Hoang Anh",
+      "age": "23",
+      "img": "toan1.jpg",
+      "id": 11
     }
   ]
 }
