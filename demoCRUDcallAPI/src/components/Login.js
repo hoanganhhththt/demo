@@ -6,6 +6,7 @@ import * as action from '../actions'
 
 const LoginComponent = () =>{
     const [isLogin, setIsLogin] = useState(true);
+    //test
     return (
         <div>
             {
